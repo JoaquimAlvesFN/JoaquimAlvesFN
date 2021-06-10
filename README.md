@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong> Docker | VSCode | GIT </strong>
+  💼 Tools: <strong> Docker | VSCode | GIT | TypeSccript</strong>
 </p>
 
 <p align="left">
