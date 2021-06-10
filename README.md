@@ -1,20 +1,20 @@
 <img src="https://image.freepik.com/free-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  <strong>Atualmente estou focado na JS com as tecnologias: React, React Native e NodeJS, mas tenho experiência com PHP e Laravel. 
-  <br>Trabalho atualmente como Software Developer na Empresa Tecla T uma outsourcing de serviços de tecnologia ao seus clientes.</strong>
+  <strong>I'm currently focused on JS with technologies: React, React Native and NodeJS, but I have experience with PHP and Laravel.
+ <br>I work as a Software Developer at Tecla T Company, an outsourcing of technology services to its clients.</strong>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JS | ReactJS | React Native | NodeJS | PHP | Laravel | SQL </strong>
+  🦄 Languages: <strong>JS | ReactJS | React Native | NodeJS | PHP | Laravel | SQL </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Docker | VSCode | GIT </strong>
+  💼 Tools: <strong> Docker | VSCode | GIT </strong>
 </p>
 
 <p align="left">
-  💌 Me encontre em um desses links! Garanto estar por lá.: ⤵️
+  💌 Find me at one of these links! I guarantee to be there: ⤵️
 </p>
 
 <p align="left">
