@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.freepik.com/free-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="left">
+  <strong>Atualmente estou focado na JS com as tecnologias: React, React Native e NodeJS, mas tenho experiência com PHP e Laravel. 
+  <br>Trabalho atualmente como Software Developer na Empresa Tecla T uma outsourcing de serviços de tecnologia ao seus clientes.</strong>
 </p>
 
 <p align="left">
