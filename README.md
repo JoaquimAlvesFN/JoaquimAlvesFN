@@ -2,7 +2,6 @@
 
 <p align="left">
   <strong>I'm currently focused on JS with technologies: React, React Native and NodeJS, but I have experience with PHP and Laravel.
- <br>I work as a Software Developer at Tecla T Company, an outsourcing of technology services to its clients.</strong>
 </p>
 
 <p align="left">
